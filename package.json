@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^4.17.3",
     "nodemon": "^2.0.15"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "project-node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilidanrock/project-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilidanrock/project-node/issues"
+  },
+  "homepage": "https://github.com/ilidanrock/project-node#readme",
+  "description": ""
 }
